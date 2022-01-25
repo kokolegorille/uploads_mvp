@@ -91,3 +91,10 @@ Cela marche en http.
       {:file_info, "~> 0.0.4"},
 ```
 
+## Test
+
+http://localhost:4000/events/new
+
+https://localhost:4001/events/new
+
+http should be working, but not https
